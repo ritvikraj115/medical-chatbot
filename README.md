@@ -59,6 +59,6 @@ open up localhost:8080
 - LangChain
 - Flask
 - Meta Llama2
-- Pinecone
+- Chroma
 
 
