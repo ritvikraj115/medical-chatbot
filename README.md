@@ -49,7 +49,7 @@ python app.py
 
 Now,
 ```bash
-open up localhost:
+open up localhost:8080
 ```
 
 
